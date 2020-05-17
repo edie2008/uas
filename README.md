@@ -3,5 +3,5 @@
 <br>
 使用的方法
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/123wbx321wbx/Uninstall-aliyun-service/master/UAS.sh && chmod 777 UAS.sh && ./UAS.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/edie2008/uas/master/UAS.sh && chmod 777 UAS.sh && ./UAS.sh
 ```
